@@ -1,4 +1,4 @@
-# 🎪 UKMSphere - Student Club Event Promotional System
+# 🎯 UKMSphere - Student Club Event Promotional System
 
 **UKMSphere** is a web-based event management platform designed for **Universiti Kebangsaan Malaysia (UKM)**. It centralizes event discovery, registration, and feedback for students, clubs, and HEP administrators.
 
@@ -193,12 +193,12 @@ Key tables:
 
 ## 👥 Group Members (Team ABELITIES)
 
-| Name | Matric No |
-|------|-----------|
-| Akmal Faheem | A201539 |
-| Nur Hazrin Izzah | A201942 |
-| Adlyn Dhia Syahira | A204168 |
-| Abel Ngew | A202791 |
+| Name |
+|------|
+| Nur Hazrin Izzah |
+| Akmal Faheem |
+| Adlyn Dhia Syahira |
+| Abel Ngew |
 
 ---
 
