@@ -12,7 +12,7 @@ Built as a group project for **TTTH2304 Software Design for Multimedia Systems**
 
 > *Click the thumbnail above to watch the full demo video*
 
-**Watch directly:** [UKMSphere Demo on Google Drive](YOUR_GOOGLE_DRIVE_VIDEO_LINK)
+**Watch directly:** [UKMSphere Demo on Google Drive](https://drive.google.com/file/d/1hXPTgzzTc9pnCvbPZjP6hpS4e48HJZVY/view?usp=sharing)
 
 ---
 
