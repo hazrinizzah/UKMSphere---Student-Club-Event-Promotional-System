@@ -8,9 +8,9 @@ Built as a group project for **TTTH2304 Software Design for Multimedia Systems**
 
 ## 🎥 Project Demo Video
 
-[![Watch UKMSphere Demo](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/mainmenu.jpg?raw=true)](https://drive.google.com/drive/folders/1kQ7sV1SjxEOQSLzCzauTVDuQ2z95Bs1m?usp=sharing)
+[![Watch the UKMSphere Demo](https://github.com/hazrinizzah/UKMSphere---Student-Club-Event-Promotional-System/blob/2e9f7f9061edc6233e75d273c53624d6fbabc627/thumnail/thumnail_video.jpg?raw=true)](https://drive.google.com/drive/folders/1kQ7sV1SjxEOQSLzCzauTVDuQ2z95Bs1m?usp=sharing)
 
-> *Click the thumbnail above to watch the full demo video*
+📹 **Direct link:** [UKMSphere Demo on Google Drive](https://drive.google.com/drive/folders/1kQ7sV1SjxEOQSLzCzauTVDuQ2z95Bs1m?usp=sharing)
 ---
 
 ## ✨ Key Features
